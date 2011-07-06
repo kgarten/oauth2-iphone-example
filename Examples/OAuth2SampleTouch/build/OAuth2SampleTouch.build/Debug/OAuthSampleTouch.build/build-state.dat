@@ -1,0 +1,68 @@
+TOAuthSampleTouch
+v7
+r1
+cCheck dependencies
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewTouch.xib
+c000000004E0D20300000000000004C2A
+t1309483056
+s19498
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainTouch.xib
+c000000004E0D2030000000000000FE76
+t1309483056
+s65142
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainiPad.xib
+c000000004E0D2030000000000000FBBF
+t1309483056
+s64447
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug/OAuthSampleTouch.app
+t2
+s0
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug/OAuthSampleTouch.app/Contents/Info.plist
+t2
+s0
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug/OAuthSampleTouch.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug/OAuthSampleTouch.app/Contents/Resources/GTMOAuth2ViewTouch.nib
+t2
+s0
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug/OAuthSampleTouch.app/Contents/Resources/OAuth2SampleMainTouch.nib
+t2
+s0
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug/OAuthSampleTouch.app/Contents/Resources/OAuth2SampleMainiPad.nib
+t2
+s0
+
+NInfo.plist
+c000000004E0D203000000000000003DA
+t1309483056
+s986
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331175980#331175980#0(63"[BEROR]error: There is no SDK with the name or path 'iphoneos'1(4@55"error: There is no SDK with the name or path 'iphoneos'331175980#18446744073709551615#0#0(1@0"0(0#1#0"8604795072#0"0#
+
+CCompileXIB /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewTouch.xib
+r0
+
+CCompileXIB /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainTouch.xib
+r0
+
+CCompileXIB /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainiPad.xib
+r0
+
+CProcessInfoPlistFile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug/OAuthSampleTouch.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug/OAuthSampleTouch.app
+r0
+

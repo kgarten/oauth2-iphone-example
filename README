@@ -1,0 +1,4 @@
+Quizlet Example of OAuth2 in Objective C
+
+Essentially the gtm-oaiuth2 example from google: http://code.google.com/p/gtm-oauth2/
+With minor changes to point to Quizlet endpoints and some layout changes.

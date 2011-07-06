@@ -1,0 +1,493 @@
+TOAuthSampleTouch
+v7
+r0
+t331576742.424602
+cCheck dependencies
+cProcessInfoPlistFile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/Info.plist Info.plist
+cCompileXIB /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewTouch.xib
+cCompileXIB /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainTouch.xib
+cCompileXIB /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainiPad.xib
+cProcessPCH /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch.gch prefixTouch.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/mainTouch.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/mainTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuth2SampleAppDelegateTouch.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleAppDelegateTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuth2SampleRootViewControllerTouch.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleRootViewControllerTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2ViewControllerTouch.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewControllerTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMHTTPFetcher.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../HTTPFetcher/GTMHTTPFetcher.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2Authentication.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2Authentication.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2SignIn.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2SignIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/SBJSON.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch normal i386
+cGenerateDSYMFile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app.dSYM /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch
+cTouch /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004D54CEFA00000000000004F5
+t1297403642
+s1269
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004D54CEFE0000000000088380
+t1297403646
+s557952
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54CEF80000000000001A58
+t1297403640
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../HTTPFetcher/GTMHTTPFetcher.h
+c000000004E0E83A200000000000062E8
+t1309574050
+s25320
+i<Foundation/Foundation.h>
+i"GTLDefines.h"
+i"GDataDefines.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../HTTPFetcher/GTMHTTPFetcher.m
+c000000004E0D2034000000000000BB4E
+t1309483060
+s47950
+i"GTMHTTPFetcher.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../JSON/SBJSON.m
+c000000004E0D203B0000000000005A98
+t1309483067
+s23192
+i"SBJSON.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2Authentication.h
+c000000004E0E83440000000000002BC0
+t1309573956
+s11200
+i<Foundation/Foundation.h>
+i"GTMHTTPFetcher.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2Authentication.m
+c000000004E0E83B70000000000008D62
+t1309574071
+s36194
+i"GTMOAuth2Authentication.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2SignIn.h
+c000000004E0D203000000000000014EB
+t1309483056
+s5355
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"GTMHTTPFetcher.h"
+i"GTMOAuth2Authentication.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2SignIn.m
+c000000004E0D20300000000000006027
+t1309483056
+s24615
+i"GTMOAuth2SignIn.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewControllerTouch.h
+c000000004E0D20300000000000002893
+t1309483056
+s10387
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"GTMOAuth2Authentication.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewControllerTouch.m
+c000000004E0D203000000000000069FA
+t1309483056
+s27130
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i"GTMOAuth2ViewControllerTouch.h"
+i"GTMOAuth2SignIn.h"
+i"GTMOAuth2Authentication.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewTouch.xib
+c000000004E0D20300000000000004C2A
+t1309483056
+s19498
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleAppDelegateTouch.h
+c000000004E0D203000000000000003CE
+t1309483056
+s974
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleAppDelegateTouch.m
+c000000004E0D203000000000000004D5
+t1309483056
+s1237
+i"OAuth2SampleAppDelegateTouch.h"
+i"OAuth2SampleRootViewControllerTouch.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainTouch.xib
+c000000004E0E7B6F0000000000010093
+t1309571951
+s65683
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainiPad.xib
+c000000004E0E7B800000000000010031
+t1309571968
+s65585
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleRootViewControllerTouch.h
+c000000004E0E83B300000000000008F2
+t1309574067
+s2290
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleRootViewControllerTouch.m
+c000000004E125488000000000000411D
+t1309824136
+s16669
+i"OAuth2SampleRootViewControllerTouch.h"
+i"GTMOAuth2ViewControllerTouch.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app
+t1309883930
+s272
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app.dSYM
+t1309883930
+s102
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/GTMOAuth2ViewTouch.nib
+t1309505541
+s2404
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/Info.plist
+t1309505540
+s697
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuth2SampleMainTouch.nib
+t1309571994
+s5636
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuth2SampleMainiPad.nib
+t1309571994
+s5556
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch
+t1309883930
+s248256
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/PkgInfo
+t1309505540
+s8
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMHTTPFetcher.o
+t1309580148
+s134652
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2Authentication.o
+t1309580148
+s118452
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2SignIn.o
+t1309580148
+s67948
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2ViewControllerTouch.o
+t1309580147
+s113208
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuth2SampleAppDelegateTouch.o
+t1309580147
+s53156
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuth2SampleRootViewControllerTouch.o
+t1309883930
+s104640
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuthSampleTouch.LinkFileList
+c000000004E0D780400000000000005CE
+t1309505540
+s1486
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/SBJSON.o
+t1309505544
+s55548
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/mainTouch.o
+t1309505543
+s7248
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/mainTouch.m
+c000000004E0D20300000000000000335
+t1309483056
+s821
+i<UIKit/UIKit.h>
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/prefixTouch.pch
+c000000004E0D203000000000000002C8
+t1309483056
+s712
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/daverochwerger/scratch/gtm-oauth2/HTTPFetcher/GTMHTTPFetcher.h
+c000000004E0E83A200000000000062E8
+t1309574050
+s25320
+i<Foundation/Foundation.h>
+i"GTLDefines.h"
+i"GDataDefines.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/JSON/SBJSON.h
+c000000004E0D203B00000000000013CF
+t1309483067
+s5071
+i<Foundation/Foundation.h>
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Source/GTMOAuth2Authentication.h
+c000000004E0E83440000000000002BC0
+t1309573956
+s11200
+i<Foundation/Foundation.h>
+i"GTMHTTPFetcher.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Source/GTMOAuth2SignIn.h
+c000000004E0D203000000000000014EB
+t1309483056
+s5355
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"GTMHTTPFetcher.h"
+i"GTMOAuth2Authentication.h"
+
+N/Users/daverochwerger/scratch/gtm-oauth2/Source/Touch/GTMOAuth2ViewControllerTouch.h
+c000000004E0D20300000000000002893
+t1309483056
+s10387
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"GTMOAuth2Authentication.h"
+
+N/var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch.gch
+t1309505543
+s15801776
+
+NInfo.plist
+c000000004E0D203000000000000003DA
+t1309483056
+s986
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331576742#331576742#0(0"0(0#1#0"8600278944#0"0#
+
+CCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMHTTPFetcher.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../HTTPFetcher/GTMHTTPFetcher.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331272947.618233
+e331272948.099162
+r1
+xCompileC
+xbuild/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMHTTPFetcher.o
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../HTTPFetcher/GTMHTTPFetcher.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../HTTPFetcher/GTMHTTPFetcher.m331272947#331272948#0(0"0(0#0#102"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../HTTPFetcher/GTMHTTPFetcher.m8606054240#2452"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-generated-files.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-own-target-headers.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-all-target-headers.hmap -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-project-headers.hmap -F/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/include -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources/i386 -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources -DDEBUG=1 -include /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch -c /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../HTTPFetcher/GTMHTTPFetcher.m -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMHTTPFetcher.o0#
+
+CCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2Authentication.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2Authentication.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331272947.845609
+e331272948.131909
+r1
+xCompileC
+xbuild/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2Authentication.o
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2Authentication.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2Authentication.m331272947#331272948#0(0"0(0#0#106"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2Authentication.m8606609216#2465"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-generated-files.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-own-target-headers.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-all-target-headers.hmap -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-project-headers.hmap -F/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/include -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources/i386 -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources -DDEBUG=1 -include /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch -c /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2Authentication.m -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2Authentication.o0#
+
+CCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2SignIn.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2SignIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331272947.936439
+e331272948.142430
+r1
+xCompileC
+xbuild/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2SignIn.o
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2SignIn.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2SignIn.m331272947#331272948#0(0"0(0#0#98"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2SignIn.m8599545984#2449"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-generated-files.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-own-target-headers.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-all-target-headers.hmap -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-project-headers.hmap -F/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/include -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources/i386 -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources -DDEBUG=1 -include /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch -c /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/GTMOAuth2SignIn.m -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2SignIn.o0#
+
+CCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2ViewControllerTouch.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewControllerTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331272947.617212
+e331272947.991964
+r1
+xCompileC
+xbuild/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2ViewControllerTouch.o
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewControllerTouch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewControllerTouch.m331272947#331272948#0(0"0(0#0#117"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewControllerTouch.m8604613568#2481"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-generated-files.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-own-target-headers.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-all-target-headers.hmap -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-project-headers.hmap -F/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/include -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources/i386 -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources -DDEBUG=1 -include /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch -c /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewControllerTouch.m -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/GTMOAuth2ViewControllerTouch.o0#
+
+CCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuth2SampleAppDelegateTouch.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleAppDelegateTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331272946.134980
+e331272947.845334
+r1
+xCompileC
+xbuild/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuth2SampleAppDelegateTouch.o
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleAppDelegateTouch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleAppDelegateTouch.m331272946#331272947#0(0"0(0#0#98"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleAppDelegateTouch.m8022148352670785536#2462"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-generated-files.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-own-target-headers.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-all-target-headers.hmap -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-project-headers.hmap -F/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/include -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources/i386 -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources -DDEBUG=1 -include /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch -c /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleAppDelegateTouch.m -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuth2SampleAppDelegateTouch.o0#
+
+CCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuth2SampleRootViewControllerTouch.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleRootViewControllerTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331576729.650315
+e331576730.124617
+r1
+xCompileC
+xbuild/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuth2SampleRootViewControllerTouch.o
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleRootViewControllerTouch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleRootViewControllerTouch.m331576729#331576730#0(0"0(0#0#105"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleRootViewControllerTouch.m5994968903376261120#2476"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-generated-files.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-own-target-headers.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-all-target-headers.hmap -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-project-headers.hmap -F/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/include -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources/i386 -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources -DDEBUG=1 -include /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch -c /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleRootViewControllerTouch.m -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuth2SampleRootViewControllerTouch.o0#
+
+CCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/SBJSON.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331198343.801199
+e331198344.033663
+r1
+xCompileC
+xbuild/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/SBJSON.o
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../JSON/SBJSON.m331198343#331198344#0(0"0(0#0#87"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../JSON/SBJSON.m8617838240#2429"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-generated-files.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-own-target-headers.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-all-target-headers.hmap -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-project-headers.hmap -F/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/include -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources/i386 -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources -DDEBUG=1 -include /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch -c /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../JSON/SBJSON.m -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/mainTouch.o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/mainTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331198343.450711
+e331198343.549864
+r1
+xCompileC
+xbuild/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/mainTouch.o
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/mainTouch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/mainTouch.m331198343#331198343#0(0"0(0#0#79"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/mainTouch.m8619100288#2424"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-generated-files.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-own-target-headers.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-all-target-headers.hmap -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-project-headers.hmap -F/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/include -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources/i386 -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources -DDEBUG=1 -include /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch -c /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/mainTouch.m -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/mainTouch.o0#
+
+CCompileXIB /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewTouch.xib
+s331198340.237770
+e331198342.002598
+r1
+xCompileXIB
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewTouch.xib
+lSLF07#2@52"CompileXIB ../../Source/Touch/GTMOAuth2ViewTouch.xib331198340#331198342#0(0"0(0#0#109"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewTouch.xib8617858112#701"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/GTMOAuth2ViewTouch.nib /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/../../Source/Touch/GTMOAuth2ViewTouch.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainTouch.xib
+s331264794.361531
+e331264795.081994
+r1
+xCompileXIB
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainTouch.xib
+lSLF07#2@36"CompileXIB OAuth2SampleMainTouch.xib331264794#331264795#0(0"0(0#0#93"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainTouch.xib8617149856#688"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuth2SampleMainTouch.nib /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainTouch.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainiPad.xib
+s331264794.368503
+e331264795.113820
+r1
+xCompileXIB
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainiPad.xib
+lSLF07#2@35"CompileXIB OAuth2SampleMainiPad.xib331264794#331264795#0(0"0(0#0#92"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainiPad.xib8617034080#686"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuth2SampleMainiPad.nib /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/OAuth2SampleMainiPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app.dSYM /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch
+s331576730.356142
+e331576730.482206
+r1
+xGenerateDSYMFile
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app.dSYM
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/OAuthSampleTouch.app.dSYM build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch331576730#331576730#0(0"0(0#0#133"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch8606375072#497"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app.dSYM0#
+
+CLd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch normal i386
+s331576730.124709
+e331576730.356022
+r1
+xLd
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch
+xnormal
+xi386
+lSLF07#2@138"Link /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch331576730#331576730#0(0"0(0#0#0"8600605760#1148"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -F/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -filelist /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/Objects-normal/i386/OAuthSampleTouch.LinkFileList -mmacosx-version-min=10.6 -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework Security -framework SystemConfiguration -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/OAuthSampleTouch0#
+
+CProcessInfoPlistFile /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/Info.plist Info.plist
+s331198340.208249
+e331198340.237682
+r1
+xProcessInfoPlistFile
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist331198340#331198340#0(0"0(0#0#78"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/Info.plist8611325440#576"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app/Info.plist0#
+
+CProcessPCH /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch.gch prefixTouch.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331198342.184479
+e331198343.450555
+r1
+xProcessPCH
+x/var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch.gch
+xprefixTouch.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile prefixTouch.pch331198342#331198343#0(0"0(0#0#83"/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/prefixTouch.pch8617838048#2255"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-generated-files.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-own-target-headers.hmap -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-all-target-headers.hmap -iquote /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/OAuthSampleTouch-project-headers.hmap -F/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/include -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources/i386 -I/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/OAuth2SampleTouch.build/Debug-iphonesimulator/OAuthSampleTouch.build/DerivedSources -DDEBUG=1 -c /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/prefixTouch.pch -o /var/folders/yu/yujDSgcxFJyoGF8HY7wYBk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prefixTouch-fpyemfbafnwromgisnltkmapbprf/prefixTouch.pch.gch0#
+
+CTouch /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app
+s331576730.482345
+e331576730.486063
+r1
+xTouch
+x/Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app
+lSLF07#2@122"Touch /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app331576730#331576730#0(0"0(0#0#0"8604583616#345"    cd /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/daverochwerger/scratch/gtm-oauth2/Examples/OAuth2SampleTouch/build/Debug-iphonesimulator/OAuthSampleTouch.app0#
+
