@@ -184,7 +184,7 @@ static NSString *const kQuizletClientURLKey    = @"QuizletClientURL";
 
 - (GTMOAuth2Authentication *)authForQuizlet {
   // http://www.dailymotion.com/doc/api/authentication.html
-  NSURL *tokenURL = [NSURL URLWithString:@"https://www.quizlet.com/token"];
+  NSURL *tokenURL = [NSURL URLWithString:@"https://api.quizlet.com/oauth/token"];
 
   // This redirectURI must be the same domain as the one you registered with. 
   // OAuth 2 (draft 16) stipulates we must check the redirect URI given matches the one we
@@ -225,7 +225,7 @@ static NSString *const kQuizletClientURLKey    = @"QuizletClientURL";
     keychainItemName = kKeychainItemName;
   }
 
-  NSURL *authURL = [NSURL URLWithString:@"https://www.quizlet.com/authorize?mobile=true"];
+  NSURL *authURL = [NSURL URLWithString:@"https://api.quizlet.com/oauth/authorize?mobile=true"];
 
   // Display the authentication view
   GTMOAuth2ViewControllerTouch *viewController;
