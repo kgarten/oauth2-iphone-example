@@ -206,7 +206,7 @@ static NSString *const kQuizletClientURLKey    = @"QuizletClientURL";
                                                            clientID:clientID
                                                        clientSecret:clientSecret];
   return auth;
-}s
+}
 
 - (void)signInToQuizlet {
   [self signOut];
